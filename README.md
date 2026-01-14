@@ -1,87 +1,86 @@
 # Insurance-PowerBI-Dashboard
 Insurance Analytics Dashboard (Power BI)
-##Project Overview
+## Project Overview
 
--This project presents an interactive insurance analytics dashboard built using Microsoft Power BI.
--The dashboard provides insights into premium performance, claims analysis, profitability, customer segmentation, and regional trends to support data-driven decision-making.
--The project is based on a guided Power BI dashboard and was customized, documented, and structured as a portfolio project.
+- This project presents an interactive insurance analytics dashboard built using Microsoft Power BI.
+- The dashboard provides insights into premium performance, claims analysis, profitability, customer segmentation, and regional trends to support data-driven decision-making.
+- The project is based on a guided Power BI dashboard and was customized, documented, and structured as a portfolio project.
 
-##Business Objective
+## Business Objective
 
-*To analyze insurance data and answer key business questions such as:
+* To analyze insurance data and answer key business questions such as:
 
-*How do premiums and claims compare across regions?
+* How do premiums and claims compare across regions?
 
-*Which regions and customer segments are more profitable?
+* Which regions and customer segments are more profitable?
 
-*What are the overall claim ratios and profit margins?
+* What are the overall claim ratios and profit margins?
 
-*How do insurance metrics trend over time?
+* How do insurance metrics trend over time?
 
-##Dataset
+## Dataset
 
--Sample insurance dataset (CSV/Excel format)
+- Sample insurance dataset (CSV/Excel format)
 
--Contains policy, customer, premium, claims, region, and date information
+- Contains policy, customer, premium, claims, region, and date information
 
--Public / sample data used for learning and portfolio purposes
+- Public / sample data used for learning and portfolio purposes
 
-##Key Metrics & KPIs
+## Key Metrics & KPIs
 
-*Total Premium
+* Total Premium
 
-*Total Claims
+* Total Claims
 
-*Claim Ratio
+* Claim Ratio
 
-*Profit & Profit Margin
+* Profit & Profit Margin
 
-*Total Policies
+* Total Policies
 
-*Customer Segmentation
+* Customer Segmentation
 
-*Regional Performance (Best / Worst Regions)
+* Regional Performance (Best / Worst Regions)
 
-*Dashboard Features
+* Dashboard Features
 
-*Interactive KPI cards for high-level insights
+* Interactive KPI cards for high-level insights
 
-*Trend analysis using line and bar charts
+* Trend analysis using line and bar charts
 
-*Region-wise performance analysis
+* Region-wise performance analysis
 
-*Customer segmentation using filters and slicers
+* Customer segmentation using filters and slicers
 
-*Clean and intuitive report layout for business users
+* Clean and intuitive report layout for business users
 
-##Tools & Technologies
+## Tools & Technologies
 
--Power BI Desktop
+- Power BI Desktop
+  
+- Power Query (data cleaning & transformation)
 
--Power Query (data cleaning & transformation)
+- DAX (calculated measures and KPIs)
 
--DAX (calculated measures and KPIs)
-
--GitHub (project versioning and documentation)
+- GitHub (project versioning and documentation)
 
 
 
-##How to View the Dashboard
+## How to View the Dashboard
+- Download the .pbix file from the Dashboard folder
 
--Download the .pbix file from the Dashboard folder
+- Open it using Power BI Desktop
 
--Open it using Power BI Desktop
+- Use slicers and filters to interact with the report
 
--Use slicers and filters to interact with the report
+## Notes
 
-##Notes
+- This project is created for learning and portfolio demonstration purposes
 
--This project is created for learning and portfolio demonstration purposes
+- Data used is not real customer data
 
--Data used is not real customer data
+- Dashboard design and KPIs follow common insurance analytics practices
 
--Dashboard design and KPIs follow common insurance analytics practices
-
-##Author
-##ADITYA JHA
-##Aspiring Data / Business Intelligence Analyst
+## Author
+## ADITYA JHA
+## Aspiring Data / Business Intelligence Analyst
